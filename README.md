@@ -52,7 +52,7 @@ Most of my work lives in private company repositories — these are the shipped 
 <summary><b>🧪 Early Flutter practice projects (2023)</b></summary>
 <br>
 
-Small side projects I built in 2023 to try out state management approaches and app structure outside of work. Kept public for reference — my production work is in private company repositories.
+Small side projects I built in 2023 to try out state management approaches and app structure outside of work. Kept public for reference and archived — my production work is in private company repositories.
 
 - **State management & structure:** [App boilerplate (MobX, flavors)](https://github.com/Hayk-Vardanyan/alpha) · [Shop app (Provider)](https://github.com/Hayk-Vardanyan/shop-app) · [Coffee app (Firebase)](https://github.com/Hayk-Vardanyan/coffee-app)
 - **Auth flows:** [Authentication app](https://github.com/Hayk-Vardanyan/authentication_app_flutter) · [Authentication app (earlier version)](https://github.com/Hayk-Vardanyan/authentication_app)
