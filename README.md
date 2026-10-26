@@ -49,6 +49,18 @@ Most of my work lives in private company repositories — these are the shipped 
 - ✍️ [Streams and Futures in Dart](https://medium.com/@haykvardanyan/streams-and-futures-in-dart-e8be53f9a93e) — article on Medium.
 
 <details>
+<summary><b>🧪 Early Flutter practice projects (2023)</b></summary>
+<br>
+
+Small side projects I built in 2023 to try out state management approaches and app structure outside of work. Kept public for reference — my production work is in private company repositories.
+
+- **State management & structure:** [App boilerplate (MobX, flavors)](https://github.com/Hayk-Vardanyan/alpha) · [Shop app (Provider)](https://github.com/Hayk-Vardanyan/shop-app) · [Coffee app (Firebase)](https://github.com/Hayk-Vardanyan/coffee-app)
+- **Auth flows:** [Authentication app](https://github.com/Hayk-Vardanyan/authentication_app_flutter) · [Authentication app (earlier version)](https://github.com/Hayk-Vardanyan/authentication_app)
+- **Small apps:** [To-do (MobX)](https://github.com/Hayk-Vardanyan/to_do_app_flutter) · [To-do (bottom sheets)](https://github.com/Hayk-Vardanyan/TO_DO_FLUTTER) · [First to-do](https://github.com/Hayk-Vardanyan/to_do) · [Calculator](https://github.com/Hayk-Vardanyan/calculator)
+
+</details>
+
+<details>
 <summary><b>📚 Earlier work — C++ coursework (2021–2022)</b></summary>
 <br>
 
